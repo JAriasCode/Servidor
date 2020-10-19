@@ -1,0 +1,9 @@
+D:\Proyectos\PruebasSocket\Servidor\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+D:\Proyectos\PruebasSocket\Servidor\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+D:\Proyectos\PruebasSocket\Servidor\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+D:\Proyectos\PruebasSocket\Servidor\Servidor\bin\Debug\Servidor.exe.config
+D:\Proyectos\PruebasSocket\Servidor\Servidor\bin\Debug\Servidor.exe
+D:\Proyectos\PruebasSocket\Servidor\Servidor\bin\Debug\Servidor.pdb
+D:\Proyectos\PruebasSocket\Servidor\Servidor\obj\Debug\Servidor.exe
+D:\Proyectos\PruebasSocket\Servidor\Servidor\obj\Debug\Servidor.pdb
+D:\Proyectos\PruebasSocket\Servidor\Servidor\obj\Debug\Servidor.Servidor.resources
